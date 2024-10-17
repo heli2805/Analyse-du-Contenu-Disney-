@@ -2,7 +2,7 @@
 
 Bienvenue sur le projet de **dashboard Power BI** qui offre une analyse complète du contenu disponible sur la plateforme Disney+. Ce tableau de bord met en lumière plusieurs informations clés à travers diverses visualisations interactives.
 
-![Aperçu du Dashboard](./Capture%20d%27%C3%A9cran%202024-10-17%20114046.png)
+![Aperçu du Dashboard](./Capture%20d'écran%202024-10-02%20181941.png)
 
 ## Fonctionnalités principales :
 
